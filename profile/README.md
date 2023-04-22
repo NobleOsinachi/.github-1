@@ -1,5 +1,5 @@
-# StartUp Github Directory
-Welcome to the StartupTrybe Open Source Directory, an open-source community providing access to knowledge, resources, and opportunities for startups. Our goal is to create a curated open-source list of relevant knowledge, terminologies, resources and opportunities for startups.
+# StartupTrybe Open Source Directory
+Welcome to the [StartupTrybe](www.startuptrybe.org) Open Source Directory, an open-source community providing access to knowledge, resources, and opportunities for startups. Our goal is to create a curated open-source list of relevant knowledge, terminologies, resources and opportunities for startups.
 
 ## Categories
 Our repository contains a variety of resources and templates for startups, organized into the following categories:
